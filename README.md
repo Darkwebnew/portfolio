@@ -628,13 +628,13 @@ ATS score, keyword gap analysis, resume builder (4 templates), LinkedIn scraping
 ```
 ┌─────────────────────────────────────────────────────────────────────────────┐
 │                                                                             │
-│   ANALYSIS OF ALGORITHMS (U — Sem 7)                                       │
-│   Internal marks: 95%+ average · Perfect lab records · Skill Assess: 100   │
+│   ANALYSIS OF ALGORITHMS (U — Sem 7)                                        │
+│   Internal marks: 95%+ average · Perfect lab records · Skill Assess: 100    │
 │   External exam MISSED due to: Right hand fracture during Sem 7 exams       │
 │   This U does NOT reflect knowledge. Internal performance proves mastery.   │
 │                                                                             │
-│   ACADEMIC TRAJECTORY (Lateral Entry — Started from 3rd Semester):         │
-│   Sem3: 8.00 → Sem4: 7.04 → Sem5: 7.31 → Sem6: 7.12 → CGPA: 7.22         │
+│   ACADEMIC TRAJECTORY (Lateral Entry — Started from 3rd Semester):          │
+│   Sem3: 8.00 → Sem4: 7.04 → Sem5: 7.31 → Sem6: 7.12 → CGPA: 7.22            │
 │                                                                             │
 │   While maintaining 7+ CGPA, I simultaneously:                              │
 │   → Won IBM Z Datathon 2025 — 2nd Place National                            │
