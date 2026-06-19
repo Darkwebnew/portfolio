@@ -34,7 +34,7 @@ engineer = {
     "location":   "Chennai, Tamil Nadu, India 🇮🇳",
     "diploma":    "Mechatronics Engineering · TVS CPAT · 81% · 2022",
     "degree":     "B.E. CSE Cybersecurity · Saveetha Engineering College · 2026",
-    "cgpa":       7.22,
+    "cgpa":       7.59,
     "roll":       "212222103002",
 
     "record": {
@@ -102,64 +102,9 @@ Between competitions: **ML-powered WAF that blocks zero-day exploits**, **clinic
 
 <h2 align="center">🧠 Engineering Philosophy</h2>
 
-<div align="center">
-<table>
-<tr>
-<td align="center" width="33%">
-
-```
-┌─────────────────────┐
-│   HARDWARE FIRST    │
-│─────────────────────│
-│ Mechatronics        │
-│ diploma. PLC. CNC.  │
-│ Robotics. Circuits. │
-│                     │
-│ I build the device. │
-│ Then I secure it.   │
-│ Nobody else does    │
-│ both.               │
-└─────────────────────┘
-```
-
-</td>
-<td align="center" width="33%">
-
-```
-┌─────────────────────┐
-│   ADAPTIVE AI       │
-│─────────────────────│
-│ Signature-based     │
-│ security is dead.   │
-│                     │
-│ Build systems that  │
-│ learn, evolve, and  │
-│ outthink attackers  │
-│ automatically.      │
-└─────────────────────┘
-```
-
-</td>
-<td align="center" width="33%">
-
-```
-┌─────────────────────┐
-│   PROOF > POLISH    │
-│─────────────────────│
-│ National award.     │
-│ IEEE publications.  │
-│ 195+ repos.         │
-│ 100% attendance.    │
-│                     │
-│ Talk is cheap.      │
-│ Show the work.      │
-└─────────────────────┘
-```
-
-</td>
-</tr>
-</table>
-</div>
+| **HARDWARE FIRST** | **ADAPTIVE AI** | **PROOF > POLISH** |
+|:---:|:---:|:---:|
+| Mechatronics diploma.<br/>PLC. CNC. Robotics.<br/>I build the device.<br/>Then I secure it.<br/>Nobody else does both. | Signature-based security is dead.<br/>Build systems that learn,<br/>evolve, and outthink attackers<br/>automatically. | National award. IEEE papers.<br/>195+ repos. 100% attendance.<br/>Talk is cheap.<br/>Show the work. |
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
 
@@ -370,7 +315,7 @@ timeline
               : Google Tunix Hackathon — Gemma3+JAX · 322 Teams
               : SIH 2025 — Shortlisted
               : RETECH Solutions — Cybersecurity Internship (Jan 2026)
-    2026      : B.E. Graduation · CGPA 7.22+
+    2026      : B.E. Graduation · CGPA 7.59+
               : CEH Exam · AWS Security Specialty · OSCP Prep
               : Full-time Cybersecurity / AI Security Role
 ```
@@ -404,7 +349,7 @@ timeline
 
 ### 🔵 B.E. CSE — Cybersecurity *(Lateral Entry)*
 **Saveetha Engineering College, Chennai**
-`2023 – 2026` · CGPA: **7.22** (~68–72%) · Roll: 212222103002
+`2023 – 2026` · CGPA: **7.59** (~68–72%) · Roll: 212222103002
 
 Joined directly in 3rd sem (skipped 1st year).
 
@@ -618,7 +563,8 @@ ATS score, keyword gap analysis, resume builder (4 templates), LinkedIn scraping
 
 </div>
 
-> **📢 Note:** I no longer offer free account recovery or phone tracing. If you need professional cybersecurity services, please reach out via [LinkedIn](https://www.linkedin.com/in/sriram-v-38305a220/) or email. **Paid consulting only.**
+> **📢 Available for Professional Engagements**  
+> I offer professional cybersecurity consulting (penetration testing, WAF setup, cloud security reviews). For paid engagements, contact me via LinkedIn or email. I no longer provide free account recovery or phone tracing services.
 
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
@@ -634,7 +580,7 @@ ATS score, keyword gap analysis, resume builder (4 templates), LinkedIn scraping
 │   This U does NOT reflect knowledge. Internal performance proves mastery.   │
 │                                                                             │
 │   ACADEMIC TRAJECTORY (Lateral Entry — Started from 3rd Semester):          │
-│   Sem3: 8.00 → Sem4: 7.04 → Sem5: 7.31 → Sem6: 7.12 → CGPA: 7.22            │
+│   Sem3: 8.00 → Sem4: 7.04 → Sem5: 7.31 → Sem6: 7.12 → CGPA: 7.59            │
 │                                                                             │
 │   While maintaining 7+ CGPA, I simultaneously:                              │
 │   → Won IBM Z Datathon 2025 — 2nd Place National                            │
@@ -808,6 +754,40 @@ ATS score, keyword gap analysis, resume builder (4 templates), LinkedIn scraping
 <img src="https://img.shields.io/badge/Open%20to-Research%20Collab-FF3D71?style=for-the-badge"/>
 
 </div>
+
+<h2 align="center">📬 Get in Touch</h2>
+
+<div align="center">
+
+[![Email](https://img.shields.io/badge/sriramnvks%40gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:sriramnvks@gmail.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/sriram-v-38305a220/)
+[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Darkwebnew)
+
+<br/>
+
+<img src="https://img.shields.io/badge/Open%20to-Cybersecurity%20Roles-00f5d4?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/Open%20to-AI%20Security-5291ff?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/Open%20to-Cloud%20Security-FFD700?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/Open%20to-Research%20Collab-FF3D71?style=for-the-badge"/>
+
+</div>
+
+<h3 align="center">☕ Support My Work</h3>
+
+<p align="center">
+  <a href="https://buymeachai.ezee.li/Harish_Ammu">
+    <img src="https://img.shields.io/badge/🇮🇳_Buy_Me_A_Chai-FF6B35?style=for-the-badge" height="40" alt="Buy Me a Chai"/>
+  </a>
+  <a href="https://buymeacoffee.com/sriramnvks">
+    <img src="https://img.shields.io/badge/☕_Buy_Me_A_Coffee-FFDD00?style=for-the-badge&logo=buy-me-a-coffee&logoColor=black" height="40" alt="Buy Me a Coffee"/>
+  </a>
+  <a href="https://github.com/sponsors/darkwebnew">
+    <img src="https://img.shields.io/badge/GitHub_Sponsors-EA4AAA?style=for-the-badge&logo=github-sponsors&logoColor=white" height="40" alt="GitHub Sponsors"/>
+  </a>
+  <a href="https://paypal.me/sriramnvks">
+    <img src="https://img.shields.io/badge/PayPal-00457C?style=for-the-badge&logo=paypal&logoColor=white" height="40" alt="PayPal"/>
+  </a>
+</p>
 
 <!-- 🐍 GitHub Contribution Snake (Full Width) -->
 <div align="center" width="100%">
