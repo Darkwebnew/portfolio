@@ -1,0 +1,215 @@
+%% ============================================================
+%%  Sriram V — Resume (MICROSOFT OPTIMIZED)
+%%  Compile: pdflatex sriram_v_resume_microsoft.tex
+%% ============================================================
+\documentclass[9.5pt, letterpaper]{article}
+
+\usepackage[T1]{fontenc}
+\usepackage[utf8]{inputenc}
+\usepackage[margin=0.55in, top=0.45in, bottom=0.45in]{geometry}
+\usepackage{lmodern}
+\usepackage{microtype}
+\usepackage{parskip}
+\usepackage{enumitem}
+\usepackage{titlesec}
+\usepackage{xcolor}
+\usepackage{hyperref}
+\usepackage{fontawesome5}
+
+\definecolor{accent}{HTML}{0f2e6b}
+\definecolor{lightgray}{HTML}{555555}
+\definecolor{rulecol}{HTML}{1e4db7}
+
+\hypersetup{colorlinks=true, urlcolor=accent, linkcolor=accent,
+  pdftitle={Sriram V Resume - Microsoft}, pdfauthor={Sriram V}}
+
+\titleformat{\section}{\normalsize\bfseries\color{accent}}{}{0em}{}
+  [\vspace{-2pt}\textcolor{rulecol}{\rule{\linewidth}{0.7pt}}\vspace{1pt}]
+\titlespacing{\section}{0pt}{7pt}{3pt}
+
+\newcommand{\role}[4]{%
+  \textbf{#1} \hfill \textcolor{lightgray}{\small #2}\\[-1pt]
+  \textit{\textcolor{lightgray}{\small #3}} \hfill \textcolor{lightgray}{\small #4}}
+
+\newcommand{\proj}[3]{%
+  \textbf{#1} \hfill \textcolor{lightgray}{\small\textit{#2}}\\[-2pt]
+  {\footnotesize\textit{\textcolor{lightgray}{Stack: #3}}}}
+
+\setlist[itemize]{noitemsep, topsep=1pt, leftmargin=1em, parsep=0pt, partopsep=0pt}
+\setlength{\parskip}{0pt}
+\pagestyle{empty}
+
+%% ===========================================================
+\begin{document}
+%% ===========================================================
+
+% ---------- HEADER ------------------------------------------
+\begin{center}
+  {\Large\bfseries\color{accent} SRIRAM V}\\[3pt]
+  {\small
+    \faMapMarker\ Chennai, TN, India \enspace
+    \faPhone\ +91-8754748489 \enspace
+    \faEnvelope\ \href{mailto:sriramnvks@gmail.com}{sriramnvks@gmail.com}\\[2pt]
+    \faGithub\ \href{https://github.com/Darkwebnew}{github.com/Darkwebnew} \enspace
+    \faLinkedin\ \href{https://linkedin.com/in/sriram-v-38305a220}{linkedin.com/in/sriram-v-38305a220} \enspace
+    \faGlobe\ \href{https://darkwebnew.github.io}{darkwebnew.github.io}
+  }
+\end{center}
+\vspace{-2pt}
+
+% ---------- SUMMARY -----------------------------------------
+\section{Professional Summary}
+\vspace{1pt}
+AI Security Engineer with \textbf{Mechatronics Engineering (81\%)} and \textbf{B.E.\ CSE Cybersecurity} — a hardware-to-software depth rarely found. \textbf{IBM Z Datathon 2025 National Runner-Up} (\$500 + IBM Mentorship), \textbf{2 IEEE publications}, 50+ certifications. Proven hands-on offensive security skills (TryHackMe Seeker 0x4) and cloud-native DevSecOps experience. Committed to building zero-trust, AI-driven security systems that detect and respond to threats at machine speed.
+
+\vspace{2pt}
+\textit{Focus Areas:} \textbf{Cloud Security \textperiodcentered\ Security Operations \textperiodcentered\ Zero Trust \textperiodcentered\ Identity \& Access Management \textperiodcentered\ DevSecOps}
+
+% ---------- SKILLS ------------------------------------------
+\section{Technical Skills}
+\vspace{1pt}
+\begin{itemize}
+  \item \textbf{Languages:} Python, Java, C/C++, JavaScript/TypeScript, SQL, Bash, Rust
+  \item \textbf{AI / ML:} TensorFlow, PyTorch, Keras, scikit-learn, OpenCV, HuggingFace, LangChain, JAX, U-Net, MobileNetV2
+  \item \textbf{Cybersecurity:} Kali Linux, Metasploit, Burp Suite, Wireshark, Nmap, OWASP Top 10, Threat Detection, Incident Response, Zero Trust Architecture
+  \item \textbf{Cloud / DevOps:} Microsoft Azure, AWS (EC2/S3/IAM/VPC), IBM Cloud (COS/Db2), IBM Z Mainframe, Docker, Kubernetes, DevSecOps, CI/CD, Prometheus, Grafana
+  \item \textbf{Security Operations:} SIEM Concepts, Identity \& Access Management, Entra ID (Azure AD), Vulnerability Assessment, Penetration Testing
+  \item \textbf{Web / Backend:} FastAPI, Flask, Django, React, Next.js 14, Redis, PostgreSQL, SQLite, JWT/RBAC
+  \item \textbf{IoT / Embedded:} Arduino, Raspberry Pi, ESP32, MQTT, Embedded C/C++
+  \item \textbf{Mechatronics / Hardware:} PLC Ladder Logic, CNC, AutoCAD, SolidWorks, Robotics, HMI
+\end{itemize}
+
+% ---------- EXPERIENCE --------------------------------------
+\section{Work Experience \& Industrial Training}
+\vspace{1pt}
+
+\role{Cybersecurity Intern}{Jan 2026 (2 weeks)}{RETECH Solutions Pvt.\ Ltd.}{Chennai}
+\begin{itemize}
+  \item Performed penetration testing and vulnerability assessments; produced security audit reports with actionable recommendations.
+  \item Applied offensive security techniques (Kali Linux, Metasploit, Burp Suite) in a real consulting environment.
+\end{itemize}
+\vspace{4pt}
+
+\role{Artificial Intelligence Intern}{Jun -- Jul 2024}{RETECH Solutions Pvt.\ Ltd.}{Chennai}
+\begin{itemize}
+  \item Developed ML workflows and deployment pipelines; work directly informed production-grade AI security projects (WAF AI, CSSS).
+\end{itemize}
+\vspace{4pt}
+
+\role{Industrial Trainee --- Electrical \& PLC Dept.\ \textbf{(SS+ Rating)}}{Mar -- May 2021}{Brakes India Pvt.\ Ltd., Padi}{Chennai}
+\begin{itemize}
+  \item Designed industrial control systems; programmed Siemens PLC ladder logic for critical infrastructure.
+\end{itemize}
+\vspace{4pt}
+
+\role{Industrial Training --- Quality \& Stores Operations}{Jul -- Dec 2022}{MK Auto Components / Suprajit Engineering}{Ambattur / Kanchipuram}
+\begin{itemize}
+  \item Quality inspection (5 months) and inventory management (3 weeks) in manufacturing environments.
+\end{itemize}
+
+% ---------- PROJECTS ----------------------------------------
+\section{Featured Projects}
+\vspace{1pt}
+
+\proj{Heart MRI AI --- IBM Z Datathon 2025 \textbf{(2nd Place National $|$ \$500 + IBM Mentorship)}}{\href{https://github.com/Darkwebnew/AI-Powered-Heart-MRI-Classification-for-Clinical-Decision-Support}{github.com/Darkwebnew}}{Python, TensorFlow, MobileNetV2, IBM Z Mainframe, IBM Cloud, Grad-CAM}
+\begin{itemize}
+  \item Built high-performance CNN classifier on IBM Z Mainframe with $<$2s inference and explainable AI (Grad-CAM + Integrated Gradients).
+  \item Designed secure cloud-native data pipeline using IBM Cloud Object Storage and Db2 with role-based access control.
+  \item Won \$500 + 3-month IBM mentorship + LICC access (\$10K+) + IBM Bangalore Labs visit.
+\end{itemize}
+\vspace{4pt}
+
+\proj{WAF AI --- AI-Powered Web Application Firewall \textbf{(IEEE Conference + Journal --- Published)}}{\href{https://github.com/Darkwebnew/Projectwork1}{github.com/Darkwebnew/Projectwork1}}{FastAPI, Isolation Forest + Random Forest, Docker (8 containers), Prometheus, Grafana}
+\begin{itemize}
+  \item Designed and deployed AI-driven threat detection system achieving 96.7\% accuracy for SQLi, XSS, CSRF, and zero-day exploits.
+  \item Implemented zero-downtime, auto-scaling architecture with full observability (Prometheus/Grafana/Loki) and DevSecOps best practices.
+\end{itemize}
+\vspace{4pt}
+
+\proj{CSSS --- Clinical Scan Support System \textbf{(IEEE Accepted --- 100/100/100 reviews)}}{\href{https://github.com/Darkwebnew/Projectwork2}{github.com/Darkwebnew/Projectwork2}}{FastAPI, Next.js 14, MobileNetV2, JWT, OTP 2FA, RBAC}
+\begin{itemize}
+  \item Built full-stack clinical AI platform: 89.51\% accuracy on 217,875 medical images with integrated Grad-CAM explainability.
+  \item Implemented multi-factor authentication, role-based access control, and secure automated PDF report delivery.
+\end{itemize}
+\vspace{4pt}
+
+\proj{HeartSeg AI --- Cardiac MRI Segmentation \textbf{(94.8\% accuracy)}}{\href{https://github.com/Darkwebnew/Miniproject}{github.com/Darkwebnew/Miniproject}}{TensorFlow, U-Net, Keras, Flask, OpenCV}
+\begin{itemize}
+  \item Automated cardiac MRI segmentation; reduced clinical diagnosis time from hours to $<$60 seconds.
+\end{itemize}
+\vspace{4pt}
+
+\proj{Gemma3 + JAX LLM Fine-Tuning --- Google Tunix Hackathon (322 teams / 11,173 entrants)}{\href{https://www.kaggle.com/code/sriramnvks/gemma3-1b-model-in-tunix}{kaggle.com/sriramnvks}}{Gemma3 1B, JAX, TPU, RLHF, RLAIF}
+\begin{itemize}
+  \item Fine-tuned LLM with RLHF/RLAIF pipeline on TPU; implemented structured chain-of-thought reasoning.
+\end{itemize}
+
+% ---------- EDUCATION ---------------------------------------
+\section{Education}
+\vspace{1pt}
+
+\role{B.E.\ Computer Science \& Engineering --- Cybersecurity (Lateral Entry)}{2023 -- 2026}{Saveetha Engineering College, Chennai (Anna University)}{CGPA: 7.59}
+\begin{itemize}
+  \item Core: Ethical Hacking, Cloud Security, Digital Forensics, Cryptography, Identity \& Access Management, AI/ML.
+  \item Notable: Smart IoT Devices (O: 90--100\%), Project Work I (A+), Scrum Master (A+).
+  \item Concurrent: IBM Z Datathon win, 2 IEEE papers, 50+ certifications, 12+ production projects.
+\end{itemize}
+\vspace{4pt}
+
+\role{Diploma in Mechatronics Engineering --- First Class with Distinction}{2019 -- 2022}{TVS CPAT (T.V.\ Srinivasan Polytechnic), Vanagaram, Chennai}{81\%}
+\begin{itemize}
+  \item 3.5-year Sandwich Programme with 3 industrial internships; C Programming Practical (100\%), Final Year Project (95/100).
+\end{itemize}
+
+% ---------- CERTIFICATIONS ----------------------------------
+\section{Key Certifications (50+ total)}
+\vspace{1pt}
+\begin{itemize}
+  \item \textbf{Google Cybersecurity Professional} --- 9 courses, Avg 96\% \hfill Sep 2025
+  \item \textbf{AWS Cloud Solutions Architect Professional} --- 4 courses, 99--100\% \hfill Mar 2025
+  \item \textbf{Certified Ethical Hacking v12 (CEH)} --- 4 courses, Avg 94\% \hfill Aug 2025
+  \item \textbf{Scrum Master Certification} --- 4 courses, Avg 92\% \hfill Aug 2025
+  \item TryHackMe --- Seeker 0x4 (Offensive Security Labs) \enspace|\enspace IBM Z Xplore Concepts
+  \item J.P.\ Morgan SWE Virtual Experience (Forage) \hfill Sep 2024
+  \item \textit{Pursuing:} CEH Practical, AWS Security Specialty, OSCP
+\end{itemize}
+
+% ---------- PUBLICATIONS ------------------------------------
+\section{Research Publications}
+\vspace{1pt}
+\begin{itemize}
+  \item \textbf{AI-Powered Web Application Firewall:} ML-based detection of SQLi, XSS, CSRF, zero-day attacks. \textit{IEEE Conference + Journal --- Published, 2025.}
+  \item \textbf{Clinical Scan Support System (CSSS):} Deep-learning diagnostics (89.51\% accuracy, 217,875 images) with explainable AI. \textit{IEEE --- Accepted 2025, Reviews: 100/100/100.}
+\end{itemize}
+
+% ---------- HONORS ------------------------------------------
+\section{Honors \& Awards}
+\vspace{1pt}
+\begin{itemize}
+  \item \textbf{IBM Z Datathon 2025 --- 2nd Place National} $|$ \$500 + IBM Mentorship + LICC (\$10K+) + IBM Bangalore Labs
+  \item \textbf{Google Tunix Hackathon} --- 322 teams / 11,173 entrants / \$100K prize pool
+  \item \textbf{Yukthi CTF Hackathon} --- Tamil Nadu Police, 2024 \enspace|\enspace \textbf{Smart India Hackathon 2025 --- Shortlisted}
+  \item \textbf{Gold Medal} --- TN State English Proficiency Test (2012) \enspace|\enspace \textbf{Yoga 1st Prize} --- Sports Olympic Federation of India (2017)
+  \item \textbf{100\% Attendance Certificate} --- 2nd to 10th Standard (9 consecutive years)
+\end{itemize}
+
+% ---------- COMMUNITY ---------------------------------------
+\section{Community \& Security Research}
+\vspace{1pt}
+\begin{itemize}
+  \item \textbf{Offensive Security Practice:} Active TryHackMe (Seeker 0x4) — hands-on penetration testing, privilege escalation, and network exploitation labs.
+  \item Helped \textbf{100+ people} recover hacked accounts, trace stolen phones, and learn cybersecurity fundamentals via online communities — pro bono.
+  \item IBM Volunteer 2024 \enspace|\enspace Planning contributions to OWASP and open-source security tooling.
+\end{itemize}
+
+\vspace{8pt}
+\begin{center}
+  \textcolor{lightgray}{\footnotesize
+    \faGithub\ github.com/Darkwebnew \quad
+    \faGlobe\ darkwebnew.github.io \quad
+    \faLinkedin\ linkedin.com/in/sriram-v-38305a220 \quad
+    \faShield\ TryHackMe --- Seeker 0x4
+  }
+\end{center}
+
+\end{document}
